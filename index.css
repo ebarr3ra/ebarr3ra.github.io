@@ -1,0 +1,96 @@
+h1 {
+color:#A93226;
+border:solid 18px;
+text-align:center;
+font-size:70px;
+font-family: times new roman, serif;
+}
+
+Body {
+Margin:0%;
+Background-color: #EBEDEF;
+}
+
+#pic{
+Width:50%;
+Margin-left:15%;
+Margin-left:22%;
+Display:block;
+}
+
+#group{
+Margin-left:15%;
+Margin-left:13%;
+Display:block;
+}
+
+H2{
+color:#A93226;
+border:solid 10px;
+text-align:center;
+font-family: times new roman, serif;
+Margin-top:-5px
+}
+
+.intro{
+Color:#641E16;
+Border: solid;
+Border-width:0px 8px;
+Font-size:20px;
+Font-family: times new roman, serif;;
+Padding-left:100px;
+Padding-right:100px;
+Padding-top:50px;
+Padding-bottom:0px;
+Text-align:justify;
+Margin-top:-42px;
+}
+
+.p{
+Color:#641E16;
+Border: solid;
+Border-width:0px 8px;
+Font-size:20px;
+Font-family:times new roman, serif;
+Padding-left:100px;
+Padding-right:100px;
+Padding-top:50px;
+Padding-bottom:0px;
+Text-align:justify;
+Margin-top:-42px;
+}
+.author{
+Color:black;
+Font-size:20px;
+Font-family:times new roman, serif;
+
+Text-align:center;
+Margin-top:-42px;
+}
+
+.email{
+Font-size:20px;
+Display:block;
+Color: white;
+Background-color:black;
+Width:30%;
+Text-align:center;
+Text-decoration:none;
+Margin-left:35%;
+Border-radius:5%;
+}
+
+.email:hover{
+Background:black;
+Color:#C0392B;
+
+}
+
+.email:active{
+Color:#D6EAF8;
+Font-size:80px;
+}
+
+
+
+
